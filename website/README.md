@@ -1,16 +1,29 @@
-# React + Vite
+# 🍹 Cocktail Animated Website
+ ## 🔗 Live Demo
+Check it out here: [Cocktail Animated Website](https://cocktail-animated-website.vercel.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Intro
+A fun and interactive cocktail website built with **React** and **Tailwind CSS**, featuring cool animations powered by **GSAP**. Scroll through the site to see smooth effects, videos synced with scroll, and animated text that makes the website lively and engaging. Perfect for learning animation and building modern interactive web pages!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Skills & Tools Used
+- ⚛️ **React.js** – for building the interactive UI  
+- 🎨 **Tailwind CSS** – for styling and responsive design  
+- ⚡ **GSAP (GreenSock Animation Platform)** – for smooth animations  
+- 🎬 **ScrollTrigger & SplitText** – scroll-based animations and text effects  
+- 🌐 **Responsive Design** – works on mobile, tablet, and desktop screens  
+- 🚀 **Vercel** – for hosting the live project  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📖 Features
+- Smooth scroll-triggered animations  
+- Video playback synced with scroll position  
+- Animated text using SplitText  
+- Pinned sections for cinematic storytelling  
+- Responsive layout for all screen sizes  
+- Scroll-based image masking effects  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.

@@ -15,11 +15,11 @@ const About = () => {
     })
 
     scrolltimeline.from(titleSplit.words, {
-      opacity:0, duration:1, yPercent:100, ease:'expo.out', stagger:0.2
+      opacity:0, duration:1, yPercent:100, ease:'expo.out', stagger:0.1
     })
 
      .from('.top-grid div, .bottom-grid div', {
-		opacity: 0, duration: 1, ease: 'power1.inOut', stagger: 0.04,
+		opacity: 0, duration: 1, ease: 'power1.inOut', stagger: 0.01,
 	}, '-=0.5')
   
   })
